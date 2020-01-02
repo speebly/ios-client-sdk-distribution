@@ -1,4 +1,0 @@
-framework module SpeeblyClientFramework {
-  header "SpeeblyClientFramework-Swift.h"
-  requires objc
-}
