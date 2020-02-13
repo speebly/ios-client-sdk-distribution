@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		UtmbnC9MI/OExl96N+yQq/jJpHc=
+		k42UZUaao8rmxaRshYdZ9wDMhsE=
 		</data>
 		<key>Headers/SpeeblyClientSDK-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/CUGTYgFlN8LCAcwLKkRhl06GyQ=
+		VzHm3a6CmtYqb57NaRD1Lu/y2eQ=
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		U5KmM7y/f4CEbHyX1AiCNKJDxik=
+		M7BlK6gmYmNtuEYkCOnQ6W1kPa0=
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		U5KmM7y/f4CEbHyX1AiCNKJDxik=
+		M7BlK6gmYmNtuEYkCOnQ6W1kPa0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oX7kRmXQrwNxZ/GkFd8RK+gH0i5c5DnhvjPSWHTfdjY=
+			VfO+rMuYZLaKlU8DdQynj0Oq+hkAqhVUnSVh7iys2Ds=
 			</data>
 		</dict>
 		<key>Headers/SpeeblyClientSDK-Swift.h</key>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZVFt01jCjF/JK9oH3q4uabZ5ip+srUkBWyfDzhLDn+g=
+			55g1DU6EaSfW8G4WGZlEKJad/r1F+7b2j7o5nZpfeOs=
 			</data>
 		</dict>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64.swiftdoc</key>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZVFt01jCjF/JK9oH3q4uabZ5ip+srUkBWyfDzhLDn+g=
+			55g1DU6EaSfW8G4WGZlEKJad/r1F+7b2j7o5nZpfeOs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
