@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VzHm3a6CmtYqb57NaRD1Lu/y2eQ=
+		IWG8sjfUlfpt/y1LQ+yUXl3Zwt4=
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		M7BlK6gmYmNtuEYkCOnQ6W1kPa0=
+		H3aRq9Jt7PD8Q92Pz+RUIoN44iw=
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		M7BlK6gmYmNtuEYkCOnQ6W1kPa0=
+		H3aRq9Jt7PD8Q92Pz+RUIoN44iw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			55g1DU6EaSfW8G4WGZlEKJad/r1F+7b2j7o5nZpfeOs=
+			gN5HeFfEbBVLX/tGYo5R3QVF9S9JU55NAs5ki8M1dSc=
 			</data>
 		</dict>
 		<key>Modules/SpeeblyClientSDK.swiftmodule/arm64.swiftdoc</key>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			55g1DU6EaSfW8G4WGZlEKJad/r1F+7b2j7o5nZpfeOs=
+			gN5HeFfEbBVLX/tGYo5R3QVF9S9JU55NAs5ki8M1dSc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
