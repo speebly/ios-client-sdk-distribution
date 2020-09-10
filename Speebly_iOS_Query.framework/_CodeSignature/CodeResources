@@ -8,41 +8,41 @@
 		<data>
 		c8WQ0MpM6lsneQ8yenO1dM01fI8=
 		</data>
-		<key>Headers/Speebly_iOS_Framework-Swift.h</key>
+		<key>Headers/Speebly_iOS_Query-Swift.h</key>
 		<data>
-		XFstK/D2QnQA6CD5inXqkKjJPEo=
+		wbi/Pp2oh26xXIEA9fi4hoevRco=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wfqKCvEKh0DzAixiJ26JfTt/GmQ=
+		Q7PVElbCy1ZmveONtEGKPAn0c0k=
 		</data>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		nZA84xIakZIQZrD7aOQyIfHt02M=
+		bd6gzethvTQ7ia1rKeOnhWbsgu8=
 		</data>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		nZA84xIakZIQZrD7aOQyIfHt02M=
+		bd6gzethvTQ7ia1rKeOnhWbsgu8=
 		</data>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		mERig+aWc5J3IELDUxqQLYpnmWE=
+		mbEjG4cjsUiOX8dZmfdqYL4kFhI=
 		</data>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Bl6dwbEuzK8oDJNuddGcC/WSVjM=
+		E/4PauFtGx+RlVD2aLBqHkLvkJg=
 		</data>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		mERig+aWc5J3IELDUxqQLYpnmWE=
+		mbEjG4cjsUiOX8dZmfdqYL4kFhI=
 		</data>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Bl6dwbEuzK8oDJNuddGcC/WSVjM=
+		E/4PauFtGx+RlVD2aLBqHkLvkJg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		prZrdLj5tGvMTSRJwDcx+ubCvnE=
+		RZPkdf3RUuWJOMH3V2cswr+gE5Q=
 		</data>
 		<key>high.mp3</key>
 		<data>
@@ -62,60 +62,60 @@
 			s+prFqy+rAfSPHPcb9whYTP/k5NxYO3a2VzSheU/nwU=
 			</data>
 		</dict>
-		<key>Headers/Speebly_iOS_Framework-Swift.h</key>
+		<key>Headers/Speebly_iOS_Query-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TPPTIf5RlXjE/AwdgPm4ImTlwZ4CuFRSUzZ8I/aQj3E=
+			CFvuo/Mizi4ok/qwPH0U72RYRdcuplghKIAI0hGQeh0=
 			</data>
 		</dict>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			en/dLm0pmoxlixrWSuaxSCllvEp8EmoCJSlR7cVAirs=
+			Iao5biytLy7/0ogqrbhTS/WD0oq5CLdJV+5euUiwuCw=
 			</data>
 		</dict>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			en/dLm0pmoxlixrWSuaxSCllvEp8EmoCJSlR7cVAirs=
+			Iao5biytLy7/0ogqrbhTS/WD0oq5CLdJV+5euUiwuCw=
 			</data>
 		</dict>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKpiRZb9esq4Kl57k9AMz6qWdUNJNM3GPXP9pOcqfZY=
+			Uhxjqrv9SMZuuyj1No8DdD3R80bwyZo6530cB+h3ssw=
 			</data>
 		</dict>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XiQuywjvygHsYly9UmB74ySMkp81bKlHpIfXh+nHTIg=
+			CNaC7bL/gQofrgxy7oL2wk5ys0DvK8kwWGuVwvq3Ypw=
 			</data>
 		</dict>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64.swiftdoc</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKpiRZb9esq4Kl57k9AMz6qWdUNJNM3GPXP9pOcqfZY=
+			Uhxjqrv9SMZuuyj1No8DdD3R80bwyZo6530cB+h3ssw=
 			</data>
 		</dict>
-		<key>Modules/Speebly_iOS_Framework.swiftmodule/arm64.swiftmodule</key>
+		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XiQuywjvygHsYly9UmB74ySMkp81bKlHpIfXh+nHTIg=
+			CNaC7bL/gQofrgxy7oL2wk5ys0DvK8kwWGuVwvq3Ypw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ObEJP/jykqWMCERp/M/Kpcil4Nfxl7srIv+M8YciHFo=
+			+Y4EPr9oZc1UWFBjD5v1imX8nKGiZB4xNPnW3Pse8OU=
 			</data>
 		</dict>
 		<key>high.mp3</key>

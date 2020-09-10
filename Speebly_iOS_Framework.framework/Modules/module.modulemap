@@ -1,4 +1,0 @@
-framework module Speebly_iOS_Framework {
-  header "Speebly_iOS_Framework-Swift.h"
-  requires objc
-}

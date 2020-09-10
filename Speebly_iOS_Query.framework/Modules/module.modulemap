@@ -1,0 +1,4 @@
+framework module Speebly_iOS_Query {
+  header "Speebly_iOS_Query-Swift.h"
+  requires objc
+}
