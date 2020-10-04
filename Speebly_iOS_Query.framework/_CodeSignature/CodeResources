@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		753qzVS8gKpXoecIdToyuhZKVRc=
+		DpHWy8BZXbePcT0HnHOGPpsACtI=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		ZD/JeSE2Lu4TbW3AgVTNBCn+dn0=
+		W/j5nud5dlgpR9TnG7j1HxqvqVw=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		ZD/JeSE2Lu4TbW3AgVTNBCn+dn0=
+		W/j5nud5dlgpR9TnG7j1HxqvqVw=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		uPFe5cvCPPduDNmiJL819aYXma8=
+		pTX4r9OKDx8fnrXxBRVHAI7lsUA=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		uPFe5cvCPPduDNmiJL819aYXma8=
+		pTX4r9OKDx8fnrXxBRVHAI7lsUA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,14 +73,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vzGpsUSym0iAVJigHXL2cpI4qmaZNIVAAr2C34UxfEY=
+			3+dyW2bsutQ1yqM28iPKtWSrraT8vzwieMTiHc74kpE=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vzGpsUSym0iAVJigHXL2cpI4qmaZNIVAAr2C34UxfEY=
+			3+dyW2bsutQ1yqM28iPKtWSrraT8vzwieMTiHc74kpE=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -94,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VhvyJ46YFiMN/2Oe8fU/FT7B/P30NT4Eg9zuraIoFTE=
+			Bzucq96jQfDDlXNCAgQdTNHMDNy4GYs+R4xu81myJVo=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
@@ -108,7 +108,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VhvyJ46YFiMN/2Oe8fU/FT7B/P30NT4Eg9zuraIoFTE=
+			Bzucq96jQfDDlXNCAgQdTNHMDNy4GYs+R4xu81myJVo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
