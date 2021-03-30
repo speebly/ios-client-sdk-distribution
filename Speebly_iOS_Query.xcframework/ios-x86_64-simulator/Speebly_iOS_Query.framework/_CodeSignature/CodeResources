@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aQxJBj0MlzTCg1DsUALzI89mN5w=
+		6scDXRFu88URPJY49W0vwzHuSMA=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P1fVgDmHsVy2oZghRCw5MeBZRts=
+		l6yI7LeWB2tToDADtP2XYUgnOe8=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		baOzAJ8rGwEiTS9lL+3QEwy+n3g=
+		7AERaEMmhFFBqSkiItG4JUZ5hmM=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		P1fVgDmHsVy2oZghRCw5MeBZRts=
+		l6yI7LeWB2tToDADtP2XYUgnOe8=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		baOzAJ8rGwEiTS9lL+3QEwy+n3g=
+		7AERaEMmhFFBqSkiItG4JUZ5hmM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -80,14 +80,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GkAuKSaEuYTbjKMHqAMcvhrIoeV/p6u5a4MV9K1Vhz0=
+			qCcGMSGYQoBvegwpkZcgee7tN0JlpNnCRgZLv9AIRdE=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFCwB1qL09hdjaPyskwftL9zZTHya+KHqE9uc+uu20s=
+			UAqZwWnW4QQi0xJre8wcc1BoXS4uyw87i71FD2I5Hj0=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64.swiftdoc</key>
@@ -101,14 +101,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GkAuKSaEuYTbjKMHqAMcvhrIoeV/p6u5a4MV9K1Vhz0=
+			qCcGMSGYQoBvegwpkZcgee7tN0JlpNnCRgZLv9AIRdE=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFCwB1qL09hdjaPyskwftL9zZTHya+KHqE9uc+uu20s=
+			UAqZwWnW4QQi0xJre8wcc1BoXS4uyw87i71FD2I5Hj0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
