@@ -53,6 +53,11 @@ public struct PennyFramework {
     public typealias Body = @_opaqueReturnTypeOf("$s17Speebly_iOS_Query14PennyFrameworkV13MainTextFieldV4bodyQrvp", 0) 🦸
   }
 }
+public struct Speebly {
+  public static var clientId: Swift.String
+  public static var clientKey: Swift.String
+  public static var bundleId: Swift.String
+}
 public struct QueryOptions : Swift.Codable {
   public var isTextToSpeechEnable: Swift.Bool
   public init(from decoder: Swift.Decoder) throws
@@ -94,7 +99,7 @@ public protocol SpeeblyQueryDelegate {
 }
 public class SpeeblyQuery : Foundation.ObservableObject {
   public var delegate: Speebly_iOS_Query.SpeeblyQueryDelegate?
-  public init(clientId: Swift.String, clientKey: Swift.String, queryContext: Speebly_iOS_Query.QueryContext)
+  public init(queryContext: Speebly_iOS_Query.QueryContext)
   public func voiceQuery(event: Swift.String = "welcome", context: Speebly_iOS_Query.QueryContext)
   public func eventQuery(event: Swift.String, context: Speebly_iOS_Query.QueryContext)
   public func TextQuery(context: Speebly_iOS_Query.QueryContext, query: Swift.String)
