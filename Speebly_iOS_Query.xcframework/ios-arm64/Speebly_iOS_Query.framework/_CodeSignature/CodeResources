@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HEHHAHNJmg6W9lp3X0jg4VSoZkw=
+		m+kCxisIZd4kfSm/2dR2F94yzCo=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		clMaGYxUxxurRhoND7/QI70kBx4=
+		paxZHyi2gfSjUyJDnH+SODxIf4c=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fm76TQJ4sBLmSzTy12V9uPZqXSA=
+		/qgBbFWoAQ3u7KcoXBHdaC8kRDw=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		clMaGYxUxxurRhoND7/QI70kBx4=
+		paxZHyi2gfSjUyJDnH+SODxIf4c=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		fm76TQJ4sBLmSzTy12V9uPZqXSA=
+		/qgBbFWoAQ3u7KcoXBHdaC8kRDw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -80,14 +80,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qAt7NhZX10AycIW8HhC1hN0yIfxiMHnV8bNu57soHoI=
+			q+DVke2H9QXqNtNK+76TcJhxT+zlZCa/fKqLYrUoU24=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3swSYFDgZaoXUpyX0b40/tcUymoLCAyyL3ALmXcySig=
+			SlrsmrD2f9Gzd4MgAQoMzIrNQJWNFSKQ8tO0sLGTiOk=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
@@ -101,14 +101,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qAt7NhZX10AycIW8HhC1hN0yIfxiMHnV8bNu57soHoI=
+			q+DVke2H9QXqNtNK+76TcJhxT+zlZCa/fKqLYrUoU24=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3swSYFDgZaoXUpyX0b40/tcUymoLCAyyL3ALmXcySig=
+			SlrsmrD2f9Gzd4MgAQoMzIrNQJWNFSKQ8tO0sLGTiOk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

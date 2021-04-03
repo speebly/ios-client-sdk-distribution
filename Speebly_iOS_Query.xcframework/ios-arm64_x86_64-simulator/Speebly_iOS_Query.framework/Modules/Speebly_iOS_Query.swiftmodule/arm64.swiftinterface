@@ -95,7 +95,7 @@ public protocol SpeeblyQueryDelegate {
 public class SpeeblyQuery : Foundation.ObservableObject {
   public var delegate: Speebly_iOS_Query.SpeeblyQueryDelegate?
   public init(clientId: Swift.String, clientKey: Swift.String, queryContext: Speebly_iOS_Query.QueryContext)
-  public func voiceQuery(event: Swift.String = "welcome", context: Speebly_iOS_Query.QueryContext)
+  public func voiceQuery(context: Speebly_iOS_Query.QueryContext)
   public func eventQuery(event: Swift.String, context: Speebly_iOS_Query.QueryContext)
   public func TextQuery(context: Speebly_iOS_Query.QueryContext, query: Swift.String)
   public func stopListening()
