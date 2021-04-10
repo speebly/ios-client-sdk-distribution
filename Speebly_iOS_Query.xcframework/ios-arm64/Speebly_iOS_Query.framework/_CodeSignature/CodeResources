@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uKu6tEh1KWImkWfk6fhUmq59N/E=
+		dtZeNiEnb+WY0C441UGqOEk3dv0=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		2A+qpKIzS8X3roeBYVuea+xYpq0=
+		um9xo/e7MVPYHS9AER0bsZkNO9k=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		XN65U+COcsKHkEnuM6wSUx4/+Nc=
+		/TfrgSH8js3KTPdO1d55ApoNuWc=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		LwJ8ZuokvFJvSn/gg7/iYSXlRk8=
+		DYWiR86Z08UBJ45MHweuj+hJ2s0=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		2A+qpKIzS8X3roeBYVuea+xYpq0=
+		um9xo/e7MVPYHS9AER0bsZkNO9k=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		XN65U+COcsKHkEnuM6wSUx4/+Nc=
+		/TfrgSH8js3KTPdO1d55ApoNuWc=
 		</data>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		LwJ8ZuokvFJvSn/gg7/iYSXlRk8=
+		DYWiR86Z08UBJ45MHweuj+hJ2s0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,42 +73,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZG3iR5+beVD1EKREQS6Sb/xcx7fX4qFdWlY3hka4TLM=
+			uJfAQvZWbIlCOpcirqyMgyFX3XP4pI+wNrIrAJ0XSJw=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z5EhUnIGb4VvrJr3Iw6faxDxX3pwOFLY2zQfTuwSVHg=
+			fz9jlUkXYkM0tGUJgYbqgrkkuhL08BcO2hKcFa0PI+0=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tYrhZCap1yF+PIZJv4JbxnqvDV9+3PL7hjKY27AJlKM=
+			lJqPHtaGGx0DuJVaOb+Rp2O4qiG4W49rPwifLhP1Qd0=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZG3iR5+beVD1EKREQS6Sb/xcx7fX4qFdWlY3hka4TLM=
+			uJfAQvZWbIlCOpcirqyMgyFX3XP4pI+wNrIrAJ0XSJw=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z5EhUnIGb4VvrJr3Iw6faxDxX3pwOFLY2zQfTuwSVHg=
+			fz9jlUkXYkM0tGUJgYbqgrkkuhL08BcO2hKcFa0PI+0=
 			</data>
 		</dict>
 		<key>Modules/Speebly_iOS_Query.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tYrhZCap1yF+PIZJv4JbxnqvDV9+3PL7hjKY27AJlKM=
+			lJqPHtaGGx0DuJVaOb+Rp2O4qiG4W49rPwifLhP1Qd0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
